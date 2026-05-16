@@ -179,5 +179,3 @@ If you use this work, please cite the corresponding manuscript related to the MS
 
 Multi-Step Attention-based Graph Convolutional Recurrent Neural Network with Explainable AI for Urban Traffic Forecasting Using Cyber-Physical and Social Network Features 
 
-
-Multi-Step Attention-based Graph Convolutional Recurrent Neural Network with Explainable AI for Urban Traffic Forecasting Using Cyber-Physical and Social Network Features 
